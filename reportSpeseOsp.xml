@@ -1,0 +1,7 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<asl codice_asl="70001">
+   <aziende_ospedaliere>
+      <azienda_ospedaliera codice_ospedale="1" numero_drg_effettuati="18850" rimborso_totale_ospedale="43925034.2478" totale_giorni_degenza="89618" totale_numero_dimessi="143"/>
+   </aziende_ospedaliere>
+</asl>

@@ -1,0 +1,261 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<diabete_mellito codice_asl="70001">
+   <aziende_ospedaliere>
+      <azienda_ospedaliera codice_ospedale="1" deviazione_standard="308.0868,0.44357,1.6985" media_parametri_cinetici="221.4375,2.0169,4.5024"/>
+   </aziende_ospedaliere>
+   <ambulatori>
+      <pazienti>
+         <paziente codice_paziente="1">
+            <A>59.2119</A>
+            <a>1.9326</a>
+            <b>4.8622</b>
+         </paziente>
+         <paziente codice_paziente="10">
+            <A>39.2853</A>
+            <a>1.5512</a>
+            <b>6.0135</b>
+         </paziente>
+         <paziente codice_paziente="11">
+            <A>41.1083</A>
+            <a>1.519</a>
+            <b>5.8013</b>
+         </paziente>
+         <paziente codice_paziente="12">
+            <A>223.9191</A>
+            <a>2.5024</a>
+            <b>3.2029</b>
+         </paziente>
+         <paziente codice_paziente="13">
+            <A>454.2973</A>
+            <a>2.6937</a>
+            <b>3.091</b>
+         </paziente>
+         <paziente codice_paziente="14">
+            <A>58.2017</A>
+            <a>1.8145</a>
+            <b>5.0208</b>
+         </paziente>
+         <paziente codice_paziente="15">
+            <A>519.0442</A>
+            <a>2.6629</a>
+            <b>2.9455</b>
+         </paziente>
+         <paziente codice_paziente="16">
+            <A>803.994</A>
+            <a>2.7214</a>
+            <b>2.9198</b>
+         </paziente>
+         <paziente codice_paziente="17">
+            <A>80.6676</A>
+            <a>1.9714</a>
+            <b>3.8686</b>
+         </paziente>
+         <paziente codice_paziente="18">
+            <A>436.8146</A>
+            <a>2.3563</a>
+            <b>2.6381</b>
+         </paziente>
+         <paziente codice_paziente="19">
+            <A>104.2432</A>
+            <a>2.1857</a>
+            <b>3.7844</b>
+         </paziente>
+         <paziente codice_paziente="2">
+            <A>456.5616</A>
+            <a>2.626</a>
+            <b>2.9528</b>
+         </paziente>
+         <paziente codice_paziente="20">
+            <A>59.8407</A>
+            <a>1.8228</a>
+            <b>4.3435</b>
+         </paziente>
+         <paziente codice_paziente="21">
+            <A>407.0966</A>
+            <a>2.5156</a>
+            <b>2.8912</b>
+         </paziente>
+         <paziente codice_paziente="22">
+            <A>78.44</A>
+            <a>1.9523</a>
+            <b>3.8838</b>
+         </paziente>
+         <paziente codice_paziente="23">
+            <A>68.7187</A>
+            <a>1.9301</a>
+            <b>4.4953</b>
+         </paziente>
+         <paziente codice_paziente="24">
+            <A>457.2515</A>
+            <a>2.4413</a>
+            <b>2.7472</b>
+         </paziente>
+         <paziente codice_paziente="25">
+            <A>53.8626</A>
+            <a>1.8448</a>
+            <b>5.157</b>
+         </paziente>
+         <paziente codice_paziente="26">
+            <A>53.0566</A>
+            <a>1.7806</a>
+            <b>5.1284</b>
+         </paziente>
+         <paziente codice_paziente="27">
+            <A>128.0652</A>
+            <a>2.1697</a>
+            <b>3.3477</b>
+         </paziente>
+         <paziente codice_paziente="28">
+            <A>36.7238</A>
+            <a>1.5284</a>
+            <b>5.7753</b>
+         </paziente>
+         <paziente codice_paziente="29">
+            <A>439.3899</A>
+            <a>2.648</a>
+            <b>3.0433</b>
+         </paziente>
+         <paziente codice_paziente="3">
+            <A>67.2496</A>
+            <a>1.9655</a>
+            <b>4.621</b>
+         </paziente>
+         <paziente codice_paziente="30">
+            <A>599.6365</A>
+            <a>2.4862</a>
+            <b>2.7334</b>
+         </paziente>
+         <paziente codice_paziente="31">
+            <A>448.8745</A>
+            <a>2.7302</a>
+            <b>3.0937</b>
+         </paziente>
+         <paziente codice_paziente="32">
+            <A>679.2635</A>
+            <a>2.5478</a>
+            <b>2.7455</b>
+         </paziente>
+         <paziente codice_paziente="33">
+            <A>444.4812</A>
+            <a>2.6055</a>
+            <b>2.9799</b>
+         </paziente>
+         <paziente codice_paziente="34">
+            <A>47.2785</A>
+            <a>1.75</a>
+            <b>5.8933</b>
+         </paziente>
+         <paziente codice_paziente="35">
+            <A>72.7754</A>
+            <a>2.0855</a>
+            <b>4.7498</b>
+         </paziente>
+         <paziente codice_paziente="36">
+            <A>927.3597</A>
+            <a>2.4779</a>
+            <b>2.6218</b>
+         </paziente>
+         <paziente codice_paziente="37">
+            <A>451.6564</A>
+            <a>2.5225</a>
+            <b>2.8368</b>
+         </paziente>
+         <paziente codice_paziente="38">
+            <A>41.4471</A>
+            <a>1.5908</a>
+            <b>5.5601</b>
+         </paziente>
+         <paziente codice_paziente="39">
+            <A>95.5322</A>
+            <a>2.2367</a>
+            <b>3.9784</b>
+         </paziente>
+         <paziente codice_paziente="4">
+            <A>968.8315</A>
+            <a>2.7601</a>
+            <b>2.9307</b>
+         </paziente>
+         <paziente codice_paziente="40">
+            <A>60.7798</A>
+            <a>1.904</a>
+            <b>5.0919</b>
+         </paziente>
+         <paziente codice_paziente="41">
+            <A>88.0778</A>
+            <a>2.1346</a>
+            <b>4.0474</b>
+         </paziente>
+         <paziente codice_paziente="42">
+            <A>422.2104</A>
+            <a>2.424</a>
+            <b>2.7611</b>
+         </paziente>
+         <paziente codice_paziente="43">
+            <A>99.7888</A>
+            <a>2.0627</a>
+            <b>3.4621</b>
+         </paziente>
+         <paziente codice_paziente="44">
+            <A>49.7592</A>
+            <a>1.7843</a>
+            <b>5.4736</b>
+         </paziente>
+         <paziente codice_paziente="45">
+            <A>44.3133</A>
+            <a>1.6074</a>
+            <b>5.5175</b>
+         </paziente>
+         <paziente codice_paziente="46">
+            <A>467.1207</A>
+            <a>2.4979</a>
+            <b>2.828</b>
+         </paziente>
+         <paziente codice_paziente="47">
+            <A>922.1289</A>
+            <a>2.6116</a>
+            <b>2.7765</b>
+         </paziente>
+         <paziente codice_paziente="48">
+            <A>276.4675</A>
+            <a>2.5912</a>
+            <b>3.1411</b>
+         </paziente>
+         <paziente codice_paziente="49">
+            <A>55.3239</A>
+            <a>1.7484</a>
+            <b>4.6184</b>
+         </paziente>
+         <paziente codice_paziente="5">
+            <A>47.5311</A>
+            <a>1.7299</a>
+            <b>5.5849</b>
+         </paziente>
+         <paziente codice_paziente="50">
+            <A>489.1888</A>
+            <a>2.4924</a>
+            <b>2.7755</b>
+         </paziente>
+         <paziente codice_paziente="6">
+            <A>223.9121</A>
+            <a>2.4881</a>
+            <b>3.1987</b>
+         </paziente>
+         <paziente codice_paziente="7">
+            <A>151.3339</A>
+            <a>2.4638</a>
+            <b>3.6899</b>
+         </paziente>
+         <paziente codice_paziente="8">
+            <A>48.9215</A>
+            <a>1.7226</a>
+            <b>5.7221</b>
+         </paziente>
+         <paziente codice_paziente="9">
+            <A>39.8264</A>
+            <a>1.7127</a>
+            <b>5.858</b>
+         </paziente>
+      </pazienti>
+   </ambulatori>
+</diabete_mellito>

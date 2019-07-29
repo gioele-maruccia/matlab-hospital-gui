@@ -1,0 +1,12 @@
+<asl codice_asl='70001' efficienza='0.7'>
+    <azienda_ospedaliera codice_ospedale='1' icp='0.76' icm='1.11'>
+        <drg codice_drg='234' Dj='6.5' Pj='0.8'/>
+        <drg codice_drg='67' Dj='10.3' Pj='0.1'/>
+        <drg codice_drg='99' Dj='3.3' Pj='0.6'/>
+    </azienda_ospedaliera>
+    <azienda_ospedaliera codice_ospedale='2' icp='0.76' icm='1.11'>
+        <drg codice_drg='234' Dj='6.5' Pj='0.8'/>
+        <drg codice_drg='67' Dj='10.3' Pj='0.1'/>
+        <drg codice_drg='99' Dj='3.3' Pj='0.6'/>
+    </azienda_ospedaliera>
+</asl>

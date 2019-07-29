@@ -1,0 +1,75 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<asl codice_asl="70001">
+   <spesa>205360.1</spesa>
+   <numero_prestazioni>21831</numero_prestazioni>
+   <branca_ricetta codice_branca="1">
+      <importo>349.76</importo>
+   </branca_ricetta>
+   <branca_ricetta codice_branca="2">
+      <importo>6099.12</importo>
+   </branca_ricetta>
+   <branca_ricetta codice_branca="3">
+      <importo>2339.85</importo>
+   </branca_ricetta>
+   <branca_ricetta codice_branca="5">
+      <importo>2627.3</importo>
+   </branca_ricetta>
+   <branca_ricetta codice_branca="6">
+      <importo>1418.29</importo>
+   </branca_ricetta>
+   <branca_ricetta codice_branca="7">
+      <importo>1380.35</importo>
+   </branca_ricetta>
+   <branca_ricetta codice_branca="8">
+      <importo>29317.07</importo>
+   </branca_ricetta>
+   <branca_ricetta codice_branca="9">
+      <importo>100.71</importo>
+   </branca_ricetta>
+   <branca_ricetta codice_branca="10">
+      <importo>1990.09</importo>
+   </branca_ricetta>
+   <branca_ricetta codice_branca="11">
+      <importo>55377.02</importo>
+   </branca_ricetta>
+   <branca_ricetta codice_branca="12">
+      <importo>11892.3</importo>
+   </branca_ricetta>
+   <branca_ricetta codice_branca="13">
+      <importo>36488.97</importo>
+   </branca_ricetta>
+   <branca_ricetta codice_branca="15">
+      <importo>2279.28</importo>
+   </branca_ricetta>
+   <branca_ricetta codice_branca="16">
+      <importo>3041.55</importo>
+   </branca_ricetta>
+   <branca_ricetta codice_branca="17">
+      <importo>1253.94</importo>
+   </branca_ricetta>
+   <branca_ricetta codice_branca="18">
+      <importo>614.59</importo>
+   </branca_ricetta>
+   <branca_ricetta codice_branca="19">
+      <importo>2146.11</importo>
+   </branca_ricetta>
+   <branca_ricetta codice_branca="20">
+      <importo>3147.42</importo>
+   </branca_ricetta>
+   <branca_ricetta codice_branca="21">
+      <importo>1845.88</importo>
+   </branca_ricetta>
+   <branca_ricetta codice_branca="22">
+      <importo>1392.88</importo>
+   </branca_ricetta>
+   <branca_ricetta codice_branca="23">
+      <importo>223.38</importo>
+   </branca_ricetta>
+   <branca_ricetta codice_branca="25">
+      <importo>1168.49</importo>
+   </branca_ricetta>
+   <branca_ricetta codice_branca="26">
+      <importo>38865.75</importo>
+   </branca_ricetta>
+</asl>
